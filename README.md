@@ -10,7 +10,7 @@ index.js is the main file whose task is to interpret the input entered by the us
 
 The speech.js file decides how the chatbot is going to deliver the reply. The language, volume, rate and the pitch of the voice of the chatbot are all decided by this content in this file.
 
-style.css contains all the information about the style that is displayed in the webapplication/
+style.css contains all the information about the style that is displayed in the web application.
 
 Project is deployed on AWS. 
-link :- http://chandan-static-chatbot.s3-website-us-east-1.amazonaws.com/
+link :- http://gsr-static-chatbot.s3-website-us-east-1.amazonaws.com/
