@@ -12,5 +12,4 @@ The speech.js file decides how the chatbot is going to deliver the reply. The la
 
 style.css contains all the information about the style that is displayed in the web application.
 
-Project is deployed on AWS. 
-link :- http://gsr-static-chatbot.s3-website-us-east-1.amazonaws.com/
+This ChatBot is deployed on AWS.
